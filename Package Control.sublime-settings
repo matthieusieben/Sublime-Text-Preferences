@@ -1,0 +1,19 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"ApacheConf.tmLanguage",
+		"Diffy",
+		"DocBlockr",
+		"EditorConfig",
+		"JSCS-Formatter",
+		"JSON Reindent",
+		"LESS",
+		"Markdown Preview",
+		"Materialize",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-jshint"
+	]
+}
