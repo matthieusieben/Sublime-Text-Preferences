@@ -1,0 +1,4 @@
+[submodule "seti-monokai-sublime"]
+	path = seti-monokai-sublime
+	url = https://github.com/soenkekluth/seti-monokai-sublime.git
+	branch = master
