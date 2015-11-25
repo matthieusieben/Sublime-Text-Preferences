@@ -1,0 +1,34 @@
+{
+    "user": {
+        "delay": 0.1,
+        "linters": {
+            "jscs": {
+                "@disable": false,
+                "args": [],
+                "excludes": [
+                    "*/node_modules/*",
+                    "*/bower_components/*"
+                ]
+            },
+            "jshint": {
+                "@disable": false,
+                "args": [],
+                "excludes": [
+                    "*/node_modules/*",
+                    "*/bower_components/*"
+                ]
+            }
+        },
+        "show_errors_on_save": true,
+        "syntax_map": {
+            "html (django)": "html",
+            "html (rails)": "html",
+            "html 5": "html",
+            "javascript (babel)": "javascript",
+            "javascript (dom)": "javascript",
+            "magicpython": "python",
+            "php": "html",
+            "python django": "python"
+        }
+    }
+}
