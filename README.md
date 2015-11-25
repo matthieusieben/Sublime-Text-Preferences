@@ -17,8 +17,11 @@ __User Preferences: [Preferences.sublime-settings][4]__
 ## Install (Linux)
 
 ```sh
-git clone https://github.com/matthieusieben/Sublime-Text-Preferences.git ~/.config/sublime-text-3/Packages/User;
-wget https://packagecontrol.io/Package%20Control.sublime-package '~/.config/sublime-text-3/Installed Packages/Package Control.sublime-package';
+mkdir -p ~/.config/sublime-text-3/Packages;
+mkdir -p ~/.config/sublime-text-3/Installed\ Packages;
+
+git clone --recursive https://github.com/matthieusieben/Sublime-Text-Preferences.git ~/.config/sublime-text-3/Packages/User;
+wget https://packagecontrol.io/Package%20Control.sublime-package -O '~/.config/sublime-text-3/Installed Packages/Package Control.sublime-package';
 ```
 
 [1]: https://github.com/matthieusieben/Sublime-Text-Preferences/blob/master/Default%20(Linux).sublime-keymap
