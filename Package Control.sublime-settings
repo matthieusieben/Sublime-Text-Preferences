@@ -3,17 +3,19 @@
 	[
 		"All Autocomplete",
 		"ApacheConf.tmLanguage",
+		"Color Highlighter",
 		"ColorPicker",
 		"DocBlockr",
 		"EditorConfig",
 		"HypnotoadSVN",
 		"JavaScript Ultimate",
-		"JSON Reindent",
+		"Pretty JSON",
 		"LESS",
 		"Materialize",
 		"Package Control",
 		"SublimeLinter",
 		"SublimeLinter-jscs",
-		"SublimeLinter-jshint"
+		"SublimeLinter-jshint",
+		"VCS Gutter"		
 	]
 }
