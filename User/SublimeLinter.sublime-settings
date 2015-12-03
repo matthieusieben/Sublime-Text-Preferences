@@ -19,7 +19,7 @@
                 ]
             }
         },
-        "show_errors_on_save": true,
+        "show_errors_on_save": false,
         "syntax_map": {
             "html (django)": "html",
             "html (rails)": "html",
